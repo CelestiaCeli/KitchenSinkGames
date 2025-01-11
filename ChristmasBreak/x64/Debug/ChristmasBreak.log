@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\Main.cpp(101,1): warning C4715: 'Game': not all control paths return a value
+  ChristmasBreak.vcxproj -> C:\Users\Celes\source\repos\ChristmasBreak\x64\Debug\ChristmasBreak.exe

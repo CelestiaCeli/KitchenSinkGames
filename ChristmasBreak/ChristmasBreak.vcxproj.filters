@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Tools">
+      <UniqueIdentifier>{d51570b1-c5e9-4526-b5b1-fdf120b411d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools\WordRandomizer">
+      <UniqueIdentifier>{d854794a-6aa6-48b7-b0d5-f9dc86c2b2a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools\Menu">
+      <UniqueIdentifier>{f6708fde-dcf8-468e-8871-64d8c883d5dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools\CPU">
+      <UniqueIdentifier>{5d362070-bdaa-424d-89e6-0876f165fc6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List">
+      <UniqueIdentifier>{9ff51e73-4dc8-4c3a-bc99-5d31ea565bee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games">
+      <UniqueIdentifier>{552c1efd-9602-4102-bb4a-75f9c01a01a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\TicTacToe">
+      <UniqueIdentifier>{3024902a-9303-4671-b6ae-1969f62169c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Chess">
+      <UniqueIdentifier>{bf524647-9239-4bb7-97a1-555a46c9c0de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Checkers">
+      <UniqueIdentifier>{4e187e5b-1ffa-403c-a5c3-719124b1706d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Snake Game">
+      <UniqueIdentifier>{9d9c3775-32ed-4abd-b821-2c9a71a5033f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\MemoryMatchingGame">
+      <UniqueIdentifier>{6b906a14-23ee-4daf-bbde-701805a0413b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\MemoryMatchingGame\Card">
+      <UniqueIdentifier>{5e08fd45-ef51-4fbd-9429-271ed8f346f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Hangman">
+      <UniqueIdentifier>{b699d375-ebc7-426a-a81e-b0bdd20dc622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Minesweeper">
+      <UniqueIdentifier>{2d703bad-a9c2-432a-a720-c77df6024686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\GodotProject">
+      <UniqueIdentifier>{9b2d9b04-bd0e-42f0-b6bd-02956433a64b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Vulkan">
+      <UniqueIdentifier>{85c52680-4f15-42fe-bc78-a1293b23e01a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\RPG">
+      <UniqueIdentifier>{bc637dd0-9308-4e92-8612-8a27348a82a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Gifts">
+      <UniqueIdentifier>{20d755f6-e5ad-4aed-a1ae-3fa857e4284f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tools\Graphical Interface">
+      <UniqueIdentifier>{95ac5bb0-c867-415c-961a-902d379f5ff3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryMatching.cpp">
+      <Filter>Source Files\List\Games\MemoryMatchingGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Cards.cpp">
+      <Filter>Source Files\List\Games\MemoryMatchingGame\Card</Filter>
+    </ClCompile>
+    <ClCompile Include="Hangman.cpp">
+      <Filter>Source Files\List\Games\Hangman</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomCategorizedWords.cpp">
+      <Filter>Source Files\Tools\WordRandomizer</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\Tools\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Minesweeper.cpp">
+      <Filter>Source Files\List\Games\Minesweeper</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake Game.cpp">
+      <Filter>Source Files\List\Games\Snake Game</Filter>
+    </ClCompile>
+    <ClCompile Include="TicTacToe.cpp">
+      <Filter>Source Files\List\Games\TicTacToe</Filter>
+    </ClCompile>
+    <ClCompile Include="Chess.cpp">
+      <Filter>Source Files\List\Games\Chess</Filter>
+    </ClCompile>
+    <ClCompile Include="Checkers.cpp">
+      <Filter>Source Files\List\Games\Checkers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cards.h">
+      <Filter>Source Files\List\Games\MemoryMatchingGame\Card</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomCategorizedWords.h">
+      <Filter>Source Files\Tools\WordRandomizer</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source Files\Tools\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Games.h">
+      <Filter>Source Files\List\Games</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryMatching.h">
+      <Filter>Source Files\List\Games\MemoryMatchingGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ChristmasBreak.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
