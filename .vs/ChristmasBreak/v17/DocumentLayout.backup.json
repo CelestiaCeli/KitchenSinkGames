@@ -3,12 +3,103 @@
   "WorkspaceRootPath": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\RandomCategorizedWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\RandomCategorizedWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Wordle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Wordle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Word Scramble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Word Scramble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Vulkan Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Vulkan Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\FiveHundredCigarettes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\FiveHundredCigarettes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\UI Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\UI Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Video Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Video Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Music Fiddling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Music Fiddling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Checkers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,56 +110,16 @@
       "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Minesweeper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\MemoryMatching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\RandomCategorizedWords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\RandomCategorizedWords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,112 +129,339 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Main.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Main.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Main.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Main.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:47:13.886Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Menu.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T13:54:06.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomCategorizedWords.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\RandomCategorizedWords.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h*",
+              "RelativeToolTip": "ChristmasBreak\\RandomCategorizedWords.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T14:31:34.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Chess.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Chess.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Chess.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Chess.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Chess.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Hangman.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Hangman.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:45:21.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TicTacToe.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\TicTacToe.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp",
-              "RelativeToolTip": "ChristmasBreak\\TicTacToe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:44:27.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Snake Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Snake Game.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Snake Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:44:19.059Z"
+              "WhenOpened": "2025-01-06T15:57:18.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Minesweeper.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Minesweeper.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Minesweeper.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RandomCategorizedWords.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\RandomCategorizedWords.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp",
+              "RelativeToolTip": "ChristmasBreak\\RandomCategorizedWords.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:44:09.264Z"
+              "WhenOpened": "2025-01-10T13:44:27.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Cards.h",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.h",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h",
-              "RelativeToolTip": "ChristmasBreak\\Cards.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T19:33:30.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Main.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Main.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Main.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Main.cpp",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MemoryMatching.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\MemoryMatching.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp",
+              "RelativeToolTip": "ChristmasBreak\\MemoryMatching.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-03T18:47:13.886Z",
+              "WhenOpened": "2025-01-11T00:07:10.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Checkers.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Checkers.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Checkers.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Checkers.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Checkers.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:45:29.226Z"
+              "Title": "Options.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Options.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.h",
+              "RelativeToolTip": "ChristmasBreak\\Options.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T14:32:19.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "resource.h",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h",
-              "RelativeDocumentMoniker": "ChristmasBreak\\resource.h",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h",
-              "RelativeToolTip": "ChristmasBreak\\resource.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Games.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Games.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Games.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:04:18.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wordle.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Wordle.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Wordle.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Wordle.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Wordle.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:22:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Hangman.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Hangman.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.h",
+              "RelativeToolTip": "ChristmasBreak\\Hangman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T18:55:09.785Z"
+              "WhenOpened": "2025-01-17T14:29:49.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAmwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T13:13:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Games.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Games.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h",
+              "RelativeToolTip": "ChristmasBreak\\Games.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T20:02:58.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Word Scramble.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Word Scramble.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Word Scramble.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Word Scramble.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Word Scramble.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:22:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h",
+              "RelativeToolTip": "ChristmasBreak\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T13:59:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Options.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Options.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Options.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Options.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T14:32:55.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Vulkan Example.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Vulkan Example.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Vulkan Example.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Vulkan Example.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Vulkan Example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlackJack.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\BlackJack.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\BlackJack.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\BlackJack.cpp",
+              "RelativeToolTip": "ChristmasBreak\\BlackJack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:19:00.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FiveHundredCigarettes.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "RelativeToolTip": "ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T20:51:03.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicTacToe.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\TicTacToe.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\TicTacToe.cpp",
+              "RelativeToolTip": "ChristmasBreak\\TicTacToe.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:44:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Snake Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Snake Game.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Snake Game.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Snake Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:44:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI Example.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\UI Example.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\UI Example.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\UI Example.cpp",
+              "RelativeToolTip": "ChristmasBreak\\UI Example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Video Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Video Player.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Video Player.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Video Player.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Video Player.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cards.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.h",
+              "RelativeToolTip": "ChristmasBreak\\Cards.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T19:33:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Minesweeper.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Minesweeper.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Minesweeper.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Minesweeper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:44:09.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Music Fiddling.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Music Fiddling.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Music Fiddling.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Music Fiddling.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Music Fiddling.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Cards.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Cards.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:34:08.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "MemoryMatching.h",
               "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.h",
               "RelativeDocumentMoniker": "ChristmasBreak\\MemoryMatching.h",
@@ -195,99 +473,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Hangman.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Hangman.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Hangman.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Hangman.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Chess.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Chess.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Chess.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Chess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-06T15:57:18.242Z"
+              "WhenOpened": "2025-01-11T19:45:21.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Menu.h",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.h",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.h",
-              "RelativeToolTip": "ChristmasBreak\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Checkers.cpp",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Checkers.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Checkers.cpp",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Checkers.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Checkers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:45:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\resource.h",
+              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\resource.h",
+              "RelativeToolTip": "ChristmasBreak\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T13:59:38.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Cards.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Cards.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Cards.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:34:08.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RandomCategorizedWords.h",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h",
-              "RelativeDocumentMoniker": "ChristmasBreak\\RandomCategorizedWords.h",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.h",
-              "RelativeToolTip": "ChristmasBreak\\RandomCategorizedWords.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-10T13:44:21.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Menu.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Menu.cpp",
-              "RelativeToolTip": "ChristmasBreak\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T13:54:06.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RandomCategorizedWords.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\RandomCategorizedWords.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\RandomCategorizedWords.cpp",
-              "RelativeToolTip": "ChristmasBreak\\RandomCategorizedWords.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-10T13:44:27.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Games.h",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h",
-              "RelativeDocumentMoniker": "ChristmasBreak\\Games.h",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\Games.h",
-              "RelativeToolTip": "ChristmasBreak\\Games.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-08T20:02:58.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MemoryMatching.cpp",
-              "DocumentMoniker": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp",
-              "RelativeDocumentMoniker": "ChristmasBreak\\MemoryMatching.cpp",
-              "ToolTip": "C:\\Users\\Celes\\source\\repos\\ChristmasBreak\\ChristmasBreak\\MemoryMatching.cpp",
-              "RelativeToolTip": "ChristmasBreak\\MemoryMatching.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T00:07:10.656Z"
+              "WhenOpened": "2025-01-11T18:55:09.785Z"
             }
           ]
         }

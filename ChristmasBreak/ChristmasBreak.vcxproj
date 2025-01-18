@@ -127,23 +127,35 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BlackJack.cpp" />
     <ClCompile Include="Cards.cpp" />
     <ClCompile Include="Checkers.cpp" />
     <ClCompile Include="Chess.cpp" />
+    <ClCompile Include="FiveHundredCigarettes.cpp" />
+    <ClCompile Include="Games.cpp" />
     <ClCompile Include="Hangman.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MemoryMatching.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Minesweeper.cpp" />
+    <ClCompile Include="Music Fiddling.cpp" />
+    <ClCompile Include="Options.cpp" />
     <ClCompile Include="RandomCategorizedWords.cpp" />
     <ClCompile Include="Snake Game.cpp" />
     <ClCompile Include="TicTacToe.cpp" />
+    <ClCompile Include="UI Example.cpp" />
+    <ClCompile Include="Video Player.cpp" />
+    <ClCompile Include="Vulkan Example.cpp" />
+    <ClCompile Include="Word Scramble.cpp" />
+    <ClCompile Include="Wordle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cards.h" />
     <ClInclude Include="Games.h" />
+    <ClInclude Include="Hangman.h" />
     <ClInclude Include="MemoryMatching.h" />
     <ClInclude Include="Menu.h" />
+    <ClInclude Include="Options.h" />
     <ClInclude Include="RandomCategorizedWords.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>

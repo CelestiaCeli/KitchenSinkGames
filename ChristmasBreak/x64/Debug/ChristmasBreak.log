@@ -1,4 +1,6 @@
-﻿  Main.cpp
-C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\Main.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\Main.cpp(101,1): warning C4715: 'Game': not all control paths return a value
+﻿  Hangman.cpp
+C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\Hangman.cpp(13,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RandomCategorizedWords.cpp
+C:\Users\Celes\source\repos\ChristmasBreak\ChristmasBreak\RandomCategorizedWords.cpp(29,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
   ChristmasBreak.vcxproj -> C:\Users\Celes\source\repos\ChristmasBreak\x64\Debug\ChristmasBreak.exe

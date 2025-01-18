@@ -19,9 +19,6 @@
     <Filter Include="Source Files\Tools\WordRandomizer">
       <UniqueIdentifier>{d854794a-6aa6-48b7-b0d5-f9dc86c2b2a2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Tools\Menu">
-      <UniqueIdentifier>{f6708fde-dcf8-468e-8871-64d8c883d5dc}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\Tools\CPU">
       <UniqueIdentifier>{5d362070-bdaa-424d-89e6-0876f165fc6b}</UniqueIdentifier>
     </Filter>
@@ -70,6 +67,42 @@
     <Filter Include="Source Files\Tools\Graphical Interface">
       <UniqueIdentifier>{95ac5bb0-c867-415c-961a-902d379f5ff3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\List\FiveHundredCigarettes">
+      <UniqueIdentifier>{09390311-1acb-4dbb-b117-a198ab34f96b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\BlackJack">
+      <UniqueIdentifier>{3acc6a6d-5989-4acd-994c-04253a49ddb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Wordle">
+      <UniqueIdentifier>{bb4766b6-8030-4050-a383-e2d3979a6238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Word Scramble">
+      <UniqueIdentifier>{4c553cdf-e459-4e19-a995-5a23e5e4995a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Technology">
+      <UniqueIdentifier>{24b85e00-6c68-4a43-8962-6f62d8bfbce7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Technology\Vulkan Example">
+      <UniqueIdentifier>{edf364ee-531e-4323-9427-399747c779e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Technology\Video Player">
+      <UniqueIdentifier>{088dcdce-1ddf-4247-9161-1bdcfaafd094}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Technology\UI Example">
+      <UniqueIdentifier>{3dcafc1e-f40c-41b4-84cc-fcc7fd741337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Technology\Music FIddling">
+      <UniqueIdentifier>{2e998167-198f-4804-ac35-afd91411f79d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu">
+      <UniqueIdentifier>{cb28668d-57cf-4c73-9908-7fd0056aa71b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\Options">
+      <UniqueIdentifier>{452803f5-ebc0-4a0f-99cb-7a758ef41c5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Menu\Menu">
+      <UniqueIdentifier>{f6708fde-dcf8-468e-8871-64d8c883d5dc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp">
@@ -88,7 +121,7 @@
       <Filter>Source Files\Tools\WordRandomizer</Filter>
     </ClCompile>
     <ClCompile Include="Menu.cpp">
-      <Filter>Source Files\Tools\Menu</Filter>
+      <Filter>Source Files\Menu\Menu</Filter>
     </ClCompile>
     <ClCompile Include="Minesweeper.cpp">
       <Filter>Source Files\List\Games\Minesweeper</Filter>
@@ -105,6 +138,36 @@
     <ClCompile Include="Checkers.cpp">
       <Filter>Source Files\List\Games\Checkers</Filter>
     </ClCompile>
+    <ClCompile Include="FiveHundredCigarettes.cpp">
+      <Filter>Source Files\List\FiveHundredCigarettes</Filter>
+    </ClCompile>
+    <ClCompile Include="Games.cpp">
+      <Filter>Source Files\List</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackJack.cpp">
+      <Filter>Source Files\List\Games\BlackJack</Filter>
+    </ClCompile>
+    <ClCompile Include="Music Fiddling.cpp">
+      <Filter>Source Files\List\Technology\Music FIddling</Filter>
+    </ClCompile>
+    <ClCompile Include="UI Example.cpp">
+      <Filter>Source Files\List\Technology\UI Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Video Player.cpp">
+      <Filter>Source Files\List\Technology\Video Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Vulkan Example.cpp">
+      <Filter>Source Files\List\Technology\Vulkan Example</Filter>
+    </ClCompile>
+    <ClCompile Include="Word Scramble.cpp">
+      <Filter>Source Files\List\Games\Word Scramble</Filter>
+    </ClCompile>
+    <ClCompile Include="Wordle.cpp">
+      <Filter>Source Files\List\Games\Wordle</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>Source Files\Menu\Options</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -117,13 +180,19 @@
       <Filter>Source Files\Tools\WordRandomizer</Filter>
     </ClInclude>
     <ClInclude Include="Menu.h">
-      <Filter>Source Files\Tools\Menu</Filter>
-    </ClInclude>
-    <ClInclude Include="Games.h">
-      <Filter>Source Files\List\Games</Filter>
+      <Filter>Source Files\Menu\Menu</Filter>
     </ClInclude>
     <ClInclude Include="MemoryMatching.h">
       <Filter>Source Files\List\Games\MemoryMatchingGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Hangman.h">
+      <Filter>Source Files\List\Games\Hangman</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>Source Files\Menu\Options</Filter>
+    </ClInclude>
+    <ClInclude Include="Games.h">
+      <Filter>Source Files\List</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

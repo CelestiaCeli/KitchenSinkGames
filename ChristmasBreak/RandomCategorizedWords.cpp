@@ -2,45 +2,46 @@
 #include <iostream>
 //This is where I grab all the randomized words for games such as 'hangman' or 'memory matching'
 
-using namespace std;
-
 //TOPICS + CONTENT
 //It's difficult to put anything in here due to the absolute legal warfare that ensues.
 //This will be fixed in a potential GUI update, where you can add your own without harsh restrictions!
 //For now, this is unoperational
-string TopicSelection[12][100] = {
-	{ "PeopleHard", "People"},
-	{ "PeopleMedium", "People"},
-	{ "PeopleEasy", "People"},
-	{ "CountriesHard", "Countries"},
-	{ "CountriesMedium", "Countries"},
-	{ "CountriesEasy", "Countries"},
-	{ "MediaMedium", "Media"},
-	{ "MediaEasy", "Media"},
-	{ "ImmatureHard", "Immature"},
-	{ "ImmatureMedium", "Immature"},
-	{ "ImmatureEasy", "Immature"}
+string TopicSelection[12][10] = {
+	{ "PeopleHard", "Pe  opl e"},
+	{ "PeopleMedium", "Pe  o ple"},
+	{ "PeopleEasy", "P eop  le"},
+	{ "CountriesHard", "Coun  trie s"},
+	{ "CountriesMedium", "Co untr  ies"},
+	{ "CountriesEasy", "Cou  ntr  ies"},
+	{ "MediaMedium", " Med  ia"},
+	{ "MediaEasy", "Medi  a"},
+	{ "ImmatureHard", "Imma   ture"},
+	{ "ImmatureMedium", "Imm  atur e"},
+	{ "ImmatureEasy", "Immatur  e"}
 };
+
 
 string Randomization(int Topic, int DifficultyOffset)
 {
 	string FinalizedWord;
-	const int AnySubject = 4;
 
 	do {
 		srand(time(0));
 		if (Topic == ANY)
 		{
+			int Hard = rand() % 4 * 3 + (HARD);
+			int Medium = rand() % 4 * 3 + (MEDIUM);
+			int Easy = rand() % 4 * 3 + (EASY);
 			switch (Topic + DifficultyOffset)
 			{
 			case(HARD):
-				FinalizedWord = TopicSelection[rand() % 4 * 3][rand() % 35 + 1];
+				FinalizedWord = TopicSelection[Hard][rand() % TopicSelection[Hard]->length()];
 				break;
 			case(MEDIUM):
-				FinalizedWord = TopicSelection[(rand() % 4) * 3 + (MEDIUM)][rand() % 35 + 1];
+				FinalizedWord = TopicSelection[Medium][rand() % TopicSelection[Medium]->length()];
 				break;
 			case(EASY):
-				FinalizedWord = TopicSelection[(rand() % 4) * 3 + (EASY)][rand() % 35 + 1];
+				FinalizedWord = TopicSelection[Easy][rand() % TopicSelection[Easy]->length()];
 				break;
 			}
 		}
@@ -51,7 +52,9 @@ string Randomization(int Topic, int DifficultyOffset)
 		else
 		{
 			cout << endl << "Error! Could not find a matching subject!" << endl << "Defaulting to Any(medium)";
-			FinalizedWord = TopicSelection[(rand() % 4) * 3 + (MEDIUM)][rand() % 35 + 1];
+			int Medium = rand() % 4 * 3 + (MEDIUM);
+			FinalizedWord = TopicSelection[Medium][rand() % TopicSelection[Medium]->length()];
+			break;
 		}
 	} while (FinalizedWord == "");
 

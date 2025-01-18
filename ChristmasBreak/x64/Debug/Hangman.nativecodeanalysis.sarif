@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34435.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/celes/source/repos/christmasbreak/christmasbreak/hangman.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "80909b8532f64905fcc900927fb69a9d8e35312b52b24fda8cb513b0fa02cbe0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/celes/source/repos/christmasbreak/christmasbreak/games.h"
+          },
+          "hashes": {
+            "sha-256": "29463fcb38aa6553804bbff6c3f86ea48eb7c0a71dc09eb790904049b1c9ea4c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/celes/source/repos/christmasbreak/christmasbreak/randomcategorizedwords.h"
+          },
+          "hashes": {
+            "sha-256": "ecb6f015ab915a79861e6c21ee3625f640fce9ecb469e1fe984f68ed697fa582"
+          }
+        }
+      ]
+    }
+  ]
+}
