@@ -20,6 +20,12 @@ enum GAMES
 	VULKANLEARNING
 };
 
+enum PLAYERINFO
+{
+	PLAYER,
+	PLAYERSCORE
+};
+
 void Hangman(int Category, int Difficulty);
 void MemoryMatchingGame(int Category);
 void WordScramble();
@@ -37,3 +43,7 @@ void MusicFiddling();
 void VulkanExample();
 
 void GameStarter(int GameSelection, int Category, int Difficulty);
+
+void Results();
+void Win();
+void Lose();

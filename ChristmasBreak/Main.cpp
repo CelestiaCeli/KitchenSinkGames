@@ -46,6 +46,7 @@ void StartUpMessage()
 
 void MainMenu()
 {
+	string PlayerInfo[1][2];
 	system("cls");
 	string Games[13] = { "Hangman", "Memory Matching Game", "Word Scramble", "Wordle", "Tic Tac Toe", "Minesweeper", "Blackjack", "Checkers", "Snake Game", "UI Example", "Scott The Woz", "Music fiddling", "Vulkun Learning" };
 	const int GamesSize = (sizeof(Games) / sizeof(Games[0]) - 1);
@@ -103,3 +104,32 @@ int Game(string GameName, int GAMEID)
 //January 18th 2025 marks the day I RUN OUT OF ESTROGEN
 
 //HECK!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+//A list of getting to do
+// Finished:
+// Main Menu(Functionally Complete)
+// Hangman(Functionally Complete)
+// 
+// Working on:
+// Memory Matching Game(WIP)
+// Dynamic Word Randomizer Update
+// 
+// To do:
+// Checkers(not started)
+// Chess(not started)
+// Memory Matching Game(WIP)
+// Minesweeper(not started)
+// RPG(not started)
+// Snake Game(not started)
+// TicTacToe(not started)
+// Godot Project(not started)
+// Vulkan test(not started)
+// Music Fiddling
+// Video Testing
+//
+// Overhauls:
+// Multiplayer Update
+// Full UI Update
+
+//Get rid of iostream btw

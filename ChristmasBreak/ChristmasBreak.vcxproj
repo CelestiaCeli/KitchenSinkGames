@@ -141,6 +141,7 @@
     <ClCompile Include="Music Fiddling.cpp" />
     <ClCompile Include="Options.cpp" />
     <ClCompile Include="RandomCategorizedWords.cpp" />
+    <ClCompile Include="Results.cpp" />
     <ClCompile Include="Snake Game.cpp" />
     <ClCompile Include="TicTacToe.cpp" />
     <ClCompile Include="UI Example.cpp" />
@@ -158,6 +159,7 @@
     <ClInclude Include="Options.h" />
     <ClInclude Include="RandomCategorizedWords.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="Results.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="ChristmasBreak.rc" />

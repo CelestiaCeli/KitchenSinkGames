@@ -7,19 +7,18 @@
 //This will be fixed in a potential GUI update, where you can add your own without harsh restrictions!
 //For now, this is unoperational
 string TopicSelection[12][10] = {
-	{ "PeopleHard", "Pe  opl e"},
-	{ "PeopleMedium", "Pe  o ple"},
-	{ "PeopleEasy", "P eop  le"},
-	{ "CountriesHard", "Coun  trie s"},
-	{ "CountriesMedium", "Co untr  ies"},
-	{ "CountriesEasy", "Cou  ntr  ies"},
-	{ "MediaMedium", " Med  ia"},
-	{ "MediaEasy", "Medi  a"},
-	{ "ImmatureHard", "Imma   ture"},
-	{ "ImmatureMedium", "Imm  atur e"},
-	{ "ImmatureEasy", "Immatur  e"}
+	{ "PeopleHard", "Canada", "", "", "", "", "", "", "", ""},
+	{ "PeopleMedium", "Canada", "", "", "", "", "", "", "", ""},
+	{ "PeopleEasy", "Canada", "", "", "", "", "", "", "", ""},
+	{ "CountriesHard", "Canada", "", "", "", "", "", "", "", ""},
+	{ "CountriesMedium", "Canada", "", "", "", "", "", "", "", ""},
+	{ "CountriesEasy", "Canada", "", "", "", "", "", "", "", ""},
+	{ "MediaMedium", "Canada", "", "", "", "", "", "", "", ""},
+	{ "MediaEasy", "Canada", "", "", "", "", "", "", "", ""},
+	{ "ImmatureHard", "Canada", "", "", "", "", "", "", "", ""},
+	{ "ImmatureMedium", "Canada", "", "", "", "", "", "", "", ""},
+	{ "ImmatureEasy", "Canada", "", "", "", "", "", "", "", ""}
 };
-
 
 string Randomization(int Topic, int DifficultyOffset)
 {
@@ -35,13 +34,13 @@ string Randomization(int Topic, int DifficultyOffset)
 			switch (Topic + DifficultyOffset)
 			{
 			case(HARD):
-				FinalizedWord = TopicSelection[Hard][rand() % TopicSelection[Hard]->length()];
+				FinalizedWord = TopicSelection[Hard][rand() % TopicSelection[Hard]->length() + 1];
 				break;
 			case(MEDIUM):
-				FinalizedWord = TopicSelection[Medium][rand() % TopicSelection[Medium]->length()];
+				FinalizedWord = TopicSelection[Medium][rand() % TopicSelection[Medium]->length() + 1];
 				break;
 			case(EASY):
-				FinalizedWord = TopicSelection[Easy][rand() % TopicSelection[Easy]->length()];
+				FinalizedWord = TopicSelection[Easy][rand() % TopicSelection[Easy]->length() + 1];
 				break;
 			}
 		}

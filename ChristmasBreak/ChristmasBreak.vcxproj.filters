@@ -168,6 +168,9 @@
     <ClCompile Include="Options.cpp">
       <Filter>Source Files\Menu\Options</Filter>
     </ClCompile>
+    <ClCompile Include="Results.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -193,6 +196,9 @@
     </ClInclude>
     <ClInclude Include="Games.h">
       <Filter>Source Files\List</Filter>
+    </ClInclude>
+    <ClInclude Include="Results.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
