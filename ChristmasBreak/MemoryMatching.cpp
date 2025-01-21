@@ -98,7 +98,7 @@ void MemoryMatchingGame(string Cards[1][1], int ArraySize, int Category)
 	}
 	else
 	{
-		Lose();
+		Lose(); 
 	}
 	return;
 
