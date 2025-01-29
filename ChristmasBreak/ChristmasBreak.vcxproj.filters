@@ -25,41 +25,8 @@
     <Filter Include="Source Files\List">
       <UniqueIdentifier>{9ff51e73-4dc8-4c3a-bc99-5d31ea565bee}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\List\Games">
-      <UniqueIdentifier>{552c1efd-9602-4102-bb4a-75f9c01a01a2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\TicTacToe">
-      <UniqueIdentifier>{3024902a-9303-4671-b6ae-1969f62169c8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Chess">
-      <UniqueIdentifier>{bf524647-9239-4bb7-97a1-555a46c9c0de}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Checkers">
-      <UniqueIdentifier>{4e187e5b-1ffa-403c-a5c3-719124b1706d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Snake Game">
-      <UniqueIdentifier>{9d9c3775-32ed-4abd-b821-2c9a71a5033f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\MemoryMatchingGame">
-      <UniqueIdentifier>{6b906a14-23ee-4daf-bbde-701805a0413b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\MemoryMatchingGame\Card">
-      <UniqueIdentifier>{5e08fd45-ef51-4fbd-9429-271ed8f346f1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Hangman">
-      <UniqueIdentifier>{b699d375-ebc7-426a-a81e-b0bdd20dc622}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Minesweeper">
-      <UniqueIdentifier>{2d703bad-a9c2-432a-a720-c77df6024686}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\GodotProject">
-      <UniqueIdentifier>{9b2d9b04-bd0e-42f0-b6bd-02956433a64b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\List\Vulkan">
       <UniqueIdentifier>{85c52680-4f15-42fe-bc78-a1293b23e01a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\RPG">
-      <UniqueIdentifier>{bc637dd0-9308-4e92-8612-8a27348a82a8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\List\Gifts">
       <UniqueIdentifier>{20d755f6-e5ad-4aed-a1ae-3fa857e4284f}</UniqueIdentifier>
@@ -69,15 +36,6 @@
     </Filter>
     <Filter Include="Source Files\List\FiveHundredCigarettes">
       <UniqueIdentifier>{09390311-1acb-4dbb-b117-a198ab34f96b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\BlackJack">
-      <UniqueIdentifier>{3acc6a6d-5989-4acd-994c-04253a49ddb1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Wordle">
-      <UniqueIdentifier>{bb4766b6-8030-4050-a383-e2d3979a6238}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\List\Games\Word Scramble">
-      <UniqueIdentifier>{4c553cdf-e459-4e19-a995-5a23e5e4995a}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files\List\Technology">
       <UniqueIdentifier>{24b85e00-6c68-4a43-8962-6f62d8bfbce7}</UniqueIdentifier>
@@ -102,6 +60,51 @@
     </Filter>
     <Filter Include="Source Files\Menu\Menu">
       <UniqueIdentifier>{f6708fde-dcf8-468e-8871-64d8c883d5dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games">
+      <UniqueIdentifier>{552c1efd-9602-4102-bb4a-75f9c01a01a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\TicTacToe">
+      <UniqueIdentifier>{3024902a-9303-4671-b6ae-1969f62169c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Snake Game">
+      <UniqueIdentifier>{9d9c3775-32ed-4abd-b821-2c9a71a5033f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\MemoryMatchingGame">
+      <UniqueIdentifier>{6b906a14-23ee-4daf-bbde-701805a0413b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\MemoryMatchingGame\Card">
+      <UniqueIdentifier>{5e08fd45-ef51-4fbd-9429-271ed8f346f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Hangman">
+      <UniqueIdentifier>{b699d375-ebc7-426a-a81e-b0bdd20dc622}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Minesweeper">
+      <UniqueIdentifier>{2d703bad-a9c2-432a-a720-c77df6024686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\GodotProject">
+      <UniqueIdentifier>{9b2d9b04-bd0e-42f0-b6bd-02956433a64b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\RPG">
+      <UniqueIdentifier>{bc637dd0-9308-4e92-8612-8a27348a82a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\BlackJack">
+      <UniqueIdentifier>{3acc6a6d-5989-4acd-994c-04253a49ddb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Wordle">
+      <UniqueIdentifier>{bb4766b6-8030-4050-a383-e2d3979a6238}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Word Scramble">
+      <UniqueIdentifier>{4c553cdf-e459-4e19-a995-5a23e5e4995a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Grid Games">
+      <UniqueIdentifier>{c0419e46-88e9-45af-8e31-a7af19242198}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Grid Games\Checkers">
+      <UniqueIdentifier>{4e187e5b-1ffa-403c-a5c3-719124b1706d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\List\Games\Grid Games\Chess">
+      <UniqueIdentifier>{bf524647-9239-4bb7-97a1-555a46c9c0de}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -133,10 +136,10 @@
       <Filter>Source Files\List\Games\TicTacToe</Filter>
     </ClCompile>
     <ClCompile Include="Chess.cpp">
-      <Filter>Source Files\List\Games\Chess</Filter>
+      <Filter>Source Files\List\Games\Grid Games\Chess</Filter>
     </ClCompile>
     <ClCompile Include="Checkers.cpp">
-      <Filter>Source Files\List\Games\Checkers</Filter>
+      <Filter>Source Files\List\Games\Grid Games\Checkers</Filter>
     </ClCompile>
     <ClCompile Include="FiveHundredCigarettes.cpp">
       <Filter>Source Files\List\FiveHundredCigarettes</Filter>
@@ -171,6 +174,12 @@
     <ClCompile Include="Results.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GridGames.cpp">
+      <Filter>Source Files\List\Games\Grid Games</Filter>
+    </ClCompile>
+    <ClCompile Include="GodotGame.cpp">
+      <Filter>Source Files\List\Games\GodotProject</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -199,6 +208,15 @@
     </ClInclude>
     <ClInclude Include="Results.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GridGames.h">
+      <Filter>Source Files\List\Games\Grid Games</Filter>
+    </ClInclude>
+    <ClInclude Include="Checkers.h">
+      <Filter>Source Files\List\Games\Grid Games\Checkers</Filter>
+    </ClInclude>
+    <ClInclude Include="Chess.h">
+      <Filter>Source Files\List\Games\Grid Games\Chess</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

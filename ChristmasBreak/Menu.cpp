@@ -48,7 +48,7 @@ int GameMenu(std::string Games[], int ArraySize, std::string Comment, int Length
 		printf("\n");
 
 		//Put any extra options here!
-		std::string OtherOptions[3] = { "Back", "Front", "Quit" };
+		std::string OtherOptions[3] = { "Back", "Front", "Quit" }; 
 
 		//Made it like this in the case anyone wants to add their own options
 		for (int i = 0; i < sizeof(OtherOptions) / sizeof(OtherOptions[0]);i++) 

@@ -4,13 +4,14 @@
 
 void GameStarter(int GameSelection, int Category, int Difficulty)
 {
+	system("cls");
 	switch (GameSelection)
 	{
 	case(HANGMAN):
 		Hangman(Category, Difficulty);
 		break;
 	case(MEMORY_MATCHING_GAME):
-		MemoryMatchingGame(Category);
+		MemoryMatchingGame(1, 1, 1);
 		break;
 	case(WORD_SCRAMBLE):
 		WordScramble();
@@ -22,7 +23,7 @@ void GameStarter(int GameSelection, int Category, int Difficulty)
 		TicTacToe(Difficulty);
 		break;
 	case(MINESWEEPER):
-		Minesweeper();
+		Minesweeper(Difficulty);
 		break;
 	case(BLACKJACK):
 		BlackJack();
@@ -45,6 +46,9 @@ void GameStarter(int GameSelection, int Category, int Difficulty)
 	case(VULKANLEARNING):
 		VulkanExample();
 		break;
+	case(FIVEHUNDREDCIGARETTES):
+		FiveHundredCigarettes();
+		break;
 	}
 	printf("\nGame Finished.\n");
 
@@ -53,18 +57,20 @@ void GameStarter(int GameSelection, int Category, int Difficulty)
 
 void PrintResults(int PlayersPlaying, string Player[1][1])
 {
-	printf("Here are your results!\n");
-	for (int i; i <= PlayersPlaying; i++)
-	{
-		printf("Player %d results:\n Name: %s\n Score: %d \n", i, Player[i][PLAYER].c_str(), Player[i][PLAYERSCORE].c_str());
-	}
+	//printf("Here are your results!\n");
+	//for (int i; i <= PlayersPlaying; i++)
+	//{
+	//	printf("Player %d results:\n Name: %s\n Score: %d \n", i, Player[i][PLAYER].c_str(), Player[i][PLAYERSCORE].c_str());
+	//}
+	return;
 }
 
 void EndOfGame(string FirstString, string SecondString, string Condition, string Players[1][1])
 {
-	system("cls");
-	printf("%s\n%s\n%s", FirstString, SecondString, Condition);
-	PrintResults(sizeof(Players) / Players, Players);
-	Sleep(5000);
+	//system("cls");
+	//printf("%s\n%s\n%s", FirstString, SecondString, Condition);
+	//PrintResults(sizeof(Players) / Players, Players);
+	//Sleep(5000);
+	//return;
 	return;
 }

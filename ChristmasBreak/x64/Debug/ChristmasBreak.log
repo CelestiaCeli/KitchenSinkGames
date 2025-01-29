@@ -1,3 +1,2 @@
-﻿  RandomCategorizedWords.cpp
-C:\Users\Celes\source\repos\ChristmasBreak\WinterBreakGames\ChristmasBreak\RandomCategorizedWords.cpp(28,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ChristmasBreak.vcxproj -> C:\Users\Celes\source\repos\ChristmasBreak\WinterBreakGames\x64\Debug\ChristmasBreak.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ChristmasBreak.sync-conflict-20250124-213738-G5MH7EL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ChristmasBreak.vcxproj -> C:\Users\Celes\Documents\Creative Works\Programming\ChristmasBreak\WinterBreakGames\x64\Debug\ChristmasBreak.exe

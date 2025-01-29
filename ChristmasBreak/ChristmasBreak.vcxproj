@@ -133,6 +133,8 @@
     <ClCompile Include="Chess.cpp" />
     <ClCompile Include="FiveHundredCigarettes.cpp" />
     <ClCompile Include="Games.cpp" />
+    <ClCompile Include="GodotGame.cpp" />
+    <ClCompile Include="GridGames.cpp" />
     <ClCompile Include="Hangman.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MemoryMatching.cpp" />
@@ -152,7 +154,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cards.h" />
+    <ClInclude Include="Checkers.h" />
+    <ClInclude Include="Chess.h" />
     <ClInclude Include="Games.h" />
+    <ClInclude Include="GridGames.h" />
     <ClInclude Include="Hangman.h" />
     <ClInclude Include="MemoryMatching.h" />
     <ClInclude Include="Menu.h" />

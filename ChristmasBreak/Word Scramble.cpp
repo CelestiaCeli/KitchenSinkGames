@@ -1,9 +1,11 @@
 #include <iostream>
 #include "Games.h"
+#include <Windows.h>
 
-using namespace std;
 
 void WordScramble()
 {
-	cout << "This Game";
+	printf("\nCurrently a WIP.\nCome back later!\n");
+	Sleep(5000);
+	return;
 }

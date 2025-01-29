@@ -9,9 +9,9 @@
 string TopicSelection[12][10] = {
 	{ "PeopleHard", "Canada", "", "", "", "", "", "", "", ""},
 	{ "PeopleMedium", "Canada", "", "", "", "", "", "", "", ""},
-	{ "PeopleEasy", "Canada", "", "", "", "", "", "", "", ""},
-	{ "CountriesHard", "Canada", "", "", "", "", "", "", "", ""},
-	{ "CountriesMedium", "Canada", "", "", "", "", "", "", "", ""},
+	{ "PeopleEasy", "Canada", "dffdfdf", "gfhgdhd", "gdfhgfdhfdgh", "dfgdfggfsrefs", "dfsdfsre", "", "", ""},
+	{ "CountriesHard", "Canada", "dffdfdf", "fdghdfhdghgd", "", "", "", "", "", ""},
+	{ "CountriesMedium", "Canada", "dffdfdf", "", "", "", "", "", "", ""},
 	{ "CountriesEasy", "Canada", "", "", "", "", "", "", "", ""},
 	{ "MediaMedium", "Canada", "", "", "", "", "", "", "", ""},
 	{ "MediaEasy", "Canada", "", "", "", "", "", "", "", ""},
@@ -24,7 +24,7 @@ string Randomization(int Topic, int DifficultyOffset)
 {
 	string FinalizedWord;
 
-	do {
+	do                                                                   {
 		srand(time(0));
 		if (Topic == ANY)
 		{

@@ -1,9 +1,10 @@
 #include <iostream>
 #include "Games.h"
-
-using namespace std;
+#include <Windows.h>
 
 void Chess(int Difficulty)
 {
-	cout << "This Game";
+	printf("\nCurrently a WIP.\nCome back later!\n");
+	Sleep(5000);
+	return;
 }

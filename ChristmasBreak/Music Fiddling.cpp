@@ -1,9 +1,10 @@
 #include <iostream>
 #include "Games.h"
-
-using namespace std;
+#include <Windows.h>
 
 void MusicFiddling()
 {
-	cout << "This Game";
+	printf("\nCurrently a WIP.\nCome back later!\n");
+	Sleep(5000);
+	return;
 }

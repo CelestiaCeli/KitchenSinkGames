@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <windows.h>
 #include "Menu.h"
 #include "Games.h"
@@ -13,7 +13,7 @@ enum
 {
 	START = 1,
 	OPTIONS,
-	QUIT
+	QUIT = -1
 };
 
 int Game(string GameName, int GAMEID);
@@ -24,6 +24,7 @@ void StartUpMessage();
 
 int main() 
 {
+	std::cout << "😠";
     srand(time(0));
 	bool Quit = false;
 	StartUpMessage();
@@ -48,9 +49,9 @@ void MainMenu()
 {
 	string PlayerInfo[1][2];
 	system("cls");
-	string Games[13] = { "Hangman", "Memory Matching Game", "Word Scramble", "Wordle", "Tic Tac Toe", "Minesweeper", "Blackjack", "Checkers", "Snake Game", "UI Example", "Scott The Woz", "Music fiddling", "Vulkun Learning" };
-	const int GamesSize = (sizeof(Games) / sizeof(Games[0]) - 1);
-	string MenuSubheader = "Welcome to my winter project collection! Pick a game from the list!";
+	string Games[14] = { "Hangman", "Memory Matching Game", "Word Scramble", "Wordle", "Tic Tac Toe", "Minesweeper", "Blackjack", "Checkers", "Snake Game", "UI Example", "Scott The Woz", "Music fiddling", "Vulkun Learning", "Five Hundred Cigarettes"};
+	const int GamesSize = (sizeof(Games) / sizeof(Games[0]));
+	char MenuSubheader[100] = { "Welcome to my winter project collection! Pick a game from the list!" };
 
 	int GameSelection = GameMenu(Games, GamesSize, MenuSubheader, 3);
 	GameSelection--;
@@ -80,8 +81,8 @@ int Game(string GameName, int GAMEID)
 		switch (GameSelection)
 		{
 		case(START):
-			printf("Now loading %d...\n\nThis code is like really awful btw...", GameSelection);
-			GameStarter(GameSelection, Category, Difficulty);
+			printf("Now loading %d...\n\nThis code is like really awful btw...\n", GameSelection);
+			GameStarter(GAMEID, Category, Difficulty);
 
 			system("cls");
 			break;
@@ -112,24 +113,29 @@ int Game(string GameName, int GAMEID)
 // Hangman(Functionally Complete)
 // 
 // Working on:
-// Memory Matching Game(WIP)
+// Memory Matching Game(WIP) // on the backburner as I learn about dictionaries
 // Dynamic Word Randomizer Update
+// Options
 // 
 // To do:
-// Checkers(not started)
-// Chess(not started)
-// Memory Matching Game(WIP)
-// Minesweeper(not started)
 // RPG(not started)
-// Snake Game(not started)
 // TicTacToe(not started)
 // Godot Project(not started)
 // Vulkan test(not started)
 // Music Fiddling
-// Video Testing
 //
+// 
+// The following are held back until Full UI update comes:
+// Minesweeper
+// Snake Game 
+// Video Testing
+// Chess
+// Checkers
+// 
 // Overhauls:
+// THESE WILL BE DONE AFTER TO DO
 // Multiplayer Update
 // Full UI Update
+// Per game options
 
 //Get rid of iostream btw

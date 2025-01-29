@@ -5,7 +5,7 @@ using namespace std;
 
 enum GAMES
 {
-	HANGMAN = 1,
+	HANGMAN,
 	MEMORY_MATCHING_GAME,
 	WORD_SCRAMBLE,
 	WORDLE,
@@ -17,7 +17,8 @@ enum GAMES
 	UIEXAMPLE,
 	VIDEOPLAYER,
 	MUSICFIDDLING,
-	VULKANLEARNING
+	VULKANLEARNING,
+	FIVEHUNDREDCIGARETTES
 };
 
 enum PLAYERINFO
@@ -27,11 +28,11 @@ enum PLAYERINFO
 };
 
 void Hangman(int Category, int Difficulty);
-void MemoryMatchingGame(int Category);
+void MemoryMatchingGame(int Length, int Height, int Category);
 void WordScramble();
 void Wordle();
 void TicTacToe(int Difficulty);
-void Minesweeper();
+void Minesweeper(int Difficulty);
 void BlackJack();
 void Chess(int Diffiuclty);
 void Checkers(int Difficulty);
@@ -41,6 +42,8 @@ void UIExample();
 void VideoPlayer();
 void MusicFiddling();
 void VulkanExample();
+void GodotGame();
+void FiveHundredCigarettes();
 
 void GameStarter(int GameSelection, int Category, int Difficulty);
 

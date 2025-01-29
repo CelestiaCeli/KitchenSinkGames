@@ -1,0 +1,478 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Word Scramble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Word Scramble.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\MemoryMatching.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Games.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Hangman.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Games.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Options.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Vulkan Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Vulkan Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\MemoryMatching.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Wordle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Wordle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\BlackJack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\FiveHundredCigarettes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\FiveHundredCigarettes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\UI Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\UI Example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Video Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Video Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Snake Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Music Fiddling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Music Fiddling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Checkers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Checkers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Chess.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\Cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F5280F9-4D48-4991-A5F4-C6D661AFA642}|ChristmasBreak\\ChristmasBreak.vcxproj|solutionrelative:ChristmasBreak\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Main.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Main.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Main.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Main.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T18:47:13.886Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.cpp*",
+              "RelativeToolTip": "ChristmasBreak\\Menu.cpp*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T13:54:06.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Options.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Options.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.h",
+              "RelativeToolTip": "ChristmasBreak\\Options.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T14:32:19.374Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\xstring",
+              "ViewState": "AgIAAMAIAAAAAAAAAAAowM8IAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-19T05:15:24.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHUCAAAAAAAAAAAmwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-17T13:13:33.59Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Word Scramble.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Word Scramble.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Word Scramble.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Word Scramble.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Word Scramble.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:22:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemoryMatching.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\MemoryMatching.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.cpp",
+              "RelativeToolTip": "ChristmasBreak\\MemoryMatching.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T00:07:10.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Games.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Games.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Games.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T18:23:19.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Games.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Games.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Games.h",
+              "RelativeToolTip": "ChristmasBreak\\Games.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T18:23:52.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hangman.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Hangman.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.h",
+              "RelativeToolTip": "ChristmasBreak\\Hangman.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-19T18:24:19.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hangman.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Hangman.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Hangman.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Hangman.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T18:24:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemoryMatching.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\MemoryMatching.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\MemoryMatching.h",
+              "RelativeToolTip": "ChristmasBreak\\MemoryMatching.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T18:53:49.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wordle.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Wordle.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Wordle.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Wordle.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Wordle.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:22:09.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Menu.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Menu.h",
+              "RelativeToolTip": "ChristmasBreak\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T13:59:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Options.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Options.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Options.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Options.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-17T14:32:55.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vulkan Example.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Vulkan Example.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Vulkan Example.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Vulkan Example.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Vulkan Example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlackJack.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\BlackJack.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\BlackJack.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\BlackJack.cpp",
+              "RelativeToolTip": "ChristmasBreak\\BlackJack.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:19:00.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FiveHundredCigarettes.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "RelativeToolTip": "ChristmasBreak\\FiveHundredCigarettes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T20:51:03.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TicTacToe.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\TicTacToe.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\TicTacToe.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\TicTacToe.cpp",
+              "RelativeToolTip": "ChristmasBreak\\TicTacToe.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:44:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Snake Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Snake Game.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Snake Game.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Snake Game.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Snake Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:44:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI Example.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\UI Example.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\UI Example.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\UI Example.cpp",
+              "RelativeToolTip": "ChristmasBreak\\UI Example.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Video Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Video Player.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Video Player.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Video Player.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Video Player.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cards.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.h",
+              "RelativeToolTip": "ChristmasBreak\\Cards.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T19:33:30.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Music Fiddling.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Music Fiddling.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Music Fiddling.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Music Fiddling.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Music Fiddling.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T01:20:35.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cards.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Cards.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Cards.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Cards.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:34:08.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Chess.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Chess.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Chess.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Chess.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Chess.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:45:21.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Checkers.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Checkers.cpp",
+              "RelativeDocumentMoniker": "ChristmasBreak\\Checkers.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\Checkers.cpp",
+              "RelativeToolTip": "ChristmasBreak\\Checkers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:45:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "resource.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\resource.h",
+              "RelativeDocumentMoniker": "ChristmasBreak\\resource.h",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Creative Works\\Programming\\ChristmasBreak\\WinterBreakGames\\ChristmasBreak\\resource.h",
+              "RelativeToolTip": "ChristmasBreak\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T18:55:09.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,18 +1,8 @@
-
-#include "Games.h"
-
-using namespace std;
-
-void MemoryMatchingGame(int Category)
-{
-	cout << "This Game";
-}
-
 #include <iostream>
 #include "Games.h"
 #include "RandomCategorizedWords.h"
 #include "MemoryMatching.h"
-using namespace std;
+#include <Windows.h>
 
 //ASCII CARD GIVEN BY ASCIIART.EU
 //   _____
@@ -24,145 +14,164 @@ using namespace std;
 
 class Card
 {
-	string CardTop = "_____";
+private:
+	string CardTopBottom;
+	int CardHeight = 8;
+	int CardWidth = 10;
+	int CardID;
+	string Name = "Placeholder";
 
-	string CardBottom = "|____|";
+public:
 
-	void Reroll()
-	{
-		Name = Randomization(1, 1);
-
-		int StartOffset = 1;
-		if (Name.length() > MaximumLength)
-		{
-			reroll();
-			return;
-		}
-		for (EndOffset = Name.find(' ', EndOffset);Name.find(' ', EndOffset) != -1;EndOffset = Name.find(' ', i + 1))
-		{
-			if (EndOffset > 5)
-				break;
-			else
-				RepresentedName.append(Name, StartOffset, StartOffset - EndOffset);
-			StartOffset = EndOffset;
-		}
-		if (Name.find(' ', 0) <= 5)
-		{
-			while (RepresentedName.length() < Name.length())
-			{
-				RepresentedName.append(Name, StartOffset, StartOffset - EndOffset);
-				StartOffset = EndOffset;
-				EndOffset += 5;
-			}
-		}
-		return;
-	}
+	bool IsCollected = false;
+	bool IsSelected = false;
 
 	void PrintCard()
 	{
-		printf("%s", CardTop);
-		for (int c = 0; c < CardHeight; c++)
+		if (IsCollected == true)
 		{
-			printf("|%s|", RepresentedName[c]);
+			return;
 		}
-		printf("|%s|", CardBottom);
+		for (int i = 0; i <= CardWidth; i++)
+		{
+			CardTopBottom.append("_");
+
+		}
+		int HeightPrinted = 1;
+		int LengthPrinted = 0;
+		printf("%d\t%s\n\t|", CardID, CardTopBottom.c_str());
+		for (int c = 0; c <= Name.length(); c++)
+		{
+			if (Name[c] != ' ' && LengthPrinted < CardWidth)
+			{
+				if (IsSelected)
+					printf("%c", Name[c]);
+				if (!IsSelected)
+					printf(" ");
+				LengthPrinted++;
+			}
+			else if (LengthPrinted > CardWidth)
+			{
+				printf("-|\n\t|-");
+				LengthPrinted = 1;
+				HeightPrinted++;
+				c--;
+			}
+			else if (LengthPrinted > 2 && Name[c] == ' ')
+			{
+				while (LengthPrinted <= CardWidth)
+				{
+					printf(" ");
+					LengthPrinted++;
+				}
+				printf("|\n\t|");
+				HeightPrinted++;
+				LengthPrinted = 0;
+			}
+			else
+			{
+				LengthPrinted++;
+			}
+		}
+		LengthPrinted--;
+		while (HeightPrinted++ <= CardHeight)
+		{
+			while (LengthPrinted <= CardWidth)
+			{
+				printf(" ");
+				LengthPrinted++;
+			}
+			LengthPrinted = 0;
+			HeightPrinted++;
+			printf("|\n\t|");
+		}
+
+		printf("|\n\t|%s|\n", CardTopBottom.c_str());
 	}
 
-public:
-	int MaximumLength = 15;
-	int CardHeight = 4;
-	int CardID;
-	string RepresentedName;
-	bool IsCollected = false;
-	bool IsSelected = true;
+	void Intialize(int height, int width, int ID)
+	{
+		CardWidth = width;
+		CardHeight = height;
+		CardID = ID;
+		do
+		{
+			Name = Randomization(1, 1);
+		} while (Name.length() > CardHeight * CardWidth);
+	}
 
-	void Reroll();
-	void Compare();
-	void PrintCard();
-	string Name = Randomization(1, 1);
+	string RetrieveName()
+	{
+		return(Name);
+	}
 };
 
-// Cards will spawn 
-void MemoryMatchingGame(string Cards[1][1], int ArraySize, int Category)
+void PrintALLCards(Card ListOfCards[], int n);
+
+void MemoryMatchingGame(int Length, int Height, int Category)
 {
-	int Turns = 5;
-	bool Valid = false;
-	const int RandomDifficulty = rand() % 3;
 
-	CardIntiation();
+	int CollectedCards = 0;
+	Card ListOfCards[8];
+	int CardListSize = sizeof(ListOfCards) / sizeof(ListOfCards[0]);
+	int FullRounds = 0;
+	int TotalAttempts = 5;
 
-
-	if (MemoryMatchingGame() == true)
+	for (int i = 0; i < CardListSize; i++)
 	{
-		Win();
+		ListOfCards[i].Intialize(5, 5, i + 1);
 	}
-	else
+
+
+	for (int FailedRounds = 0; FailedRounds < TotalAttempts; FailedRounds++)
 	{
-		Lose(); 
+		printf("\nYou have %d tries left!\n", TotalAttempts - FailedRounds);
+
+		PrintALLCards(ListOfCards, CardListSize);
+
+		int PickedCards[2];
+		string Count[2][2] = {"First", "Second"};
+
+		for (int i = 0; i < 2; i++)
+		{
+			printf("\nChoose your %s card!\n", Count[i]->c_str());
+			std::cin >> PickedCards[i];
+
+			system("cls");
+			ListOfCards[PickedCards[i] - 1].IsSelected = true;
+
+			PrintALLCards(ListOfCards, CardListSize);
+		}
+		Sleep(500);
+		ListOfCards[PickedCards[0] - 1].IsSelected = false;
+		ListOfCards[PickedCards[1] - 1].IsSelected = false;
+
+		if (ListOfCards[PickedCards[0] - 1].RetrieveName() == ListOfCards[PickedCards[1] - 1].RetrieveName())
+		{
+			ListOfCards[PickedCards[0] - 1].IsCollected = true;
+			ListOfCards[PickedCards[1] - 1].IsCollected = true;
+			CollectedCards += 2;
+		}
+
+		if (CollectedCards == CardListSize)
+		{
+			printf("Congrats! You won!\nIt took you %d tries!\nYou successfully collected %d of them!", FullRounds, CollectedCards);
+			Sleep(500);
+			return;
+		}
+
+		system("cls");
 	}
+
+	printf("Congratulations! You're a failure!\n\nOH I FAILED?? DIDN'T I?....");
+	Sleep(500);
 	return;
-
-}  
-
-bool MemoryMatchingGame()
-{
-	while (Turns > 0)
-	{
-		CardPresenting();
-
-		int CardSelection = CardPlayerSelection();
-
-		if (Compare(CardSelection, CardSelection) == false)
-		{
-			Turns--;
-		}
-		if (CardAmount == 0)
-		{
-			return(true);
-		}
-	}
-	return(false);
-}
-void CardPresenting()
-{
-
 }
 
-void CardIntiation()
+void PrintALLCards(Card ListOfCards[], int n)
 {
-	for (int a = 0; a <= ArraySize; a++)
+	for (int i = 0; i < n; i++)
 	{
-		for (int b = 0; b <= ArraySize; b++)
-		{
-			printf("%d", Card1.CardID);
-			Card1.PrintCard();
-		}
-		"\n"
+		ListOfCards[i].PrintCard();
 	}
-}
-
-int CardPlayerSelection()
-{
-	int CardSelection;
-	int CardSelection2;
-	printf("Pick two cards!");
-	std::cin >> CardSelection;
-	printf("\n");
-	std::cin >> CardSelection2;
-	return(CardSelection, CardSelection2);
-}
-
-bool Compare(Card Card1, Card Card2)
-{
-	if (Card1.Name == Card2.Name)
-	{
-		Card1.IsCollected = true;
-		Card2.IsCollected = true;
-		return(true);
-	}
-	else
-	{
-		return(false);
-	}
-	return;
 }
