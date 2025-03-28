@@ -1,20 +1,25 @@
-# WinterBreakGames
+# Kitchen Sink Games
 THIS IS INCOMPLETE. LIKE VERY INCOMPLETE
-Just opening up the project and pressing play will result nothing, there's input you need to feed it intially I will figure out soon.
 
-The following is a collection of games I'm making to practice my programming!
+The following is a collection of games I'm making to practice on my new programming skills! I plan for this to be a gui collection of small minigames, like a surprise bag of sorts! It'll be my first attempt at working on a large-scale project!
+This is developed and packaged on first and foremost linux, but I will give mind to other operating systems! 
 
-Current Progress
-- Main Menu (Functionally Complete)
-- Checkers (not started)
-- Chess (not started)
-- Hangman (Functionally Complete)
-- Memory Matching Game (WIP)
-- Minesweeper (not started)
-- RPG (not started)
-- Snake Game (not started)
-- TicTacToe (not started)
-- Godot Project (not started)
-- Vulkan test (not started)
+Feel free to make an issue on any bugs or criticisms!
+
+
+Currently Finished
+- Main Menu
+- Hangman
+
+Work In Progress
+- Memory Matching Game
+- Graphical Vulkan Overhaul
+- Options
+
+Not Started
+- MineSweeping (Godot Project)
+- Chess & Checkers
+- Small silly RPG
+- Snake Game
+- TicTacToe
 - Music Fiddling
-- Video Testing
