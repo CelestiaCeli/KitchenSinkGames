@@ -10,6 +10,4 @@ void MainObject::Update() {
         mainProcess->Update();
         mainRender->Update();
     }
-
-    return errorCode;
-}s
+}

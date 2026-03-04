@@ -1,6 +1,7 @@
 //
 // Created by Celeste on 2026-03-04.
 //
+#include "BaseObject.h"
 #include "../Components/Process/MenuProcess.h"
 #include "../Components/Render/MenuRender.h"
 
@@ -8,7 +9,7 @@
 #ifndef KITCHENSINKSTUFF_MENU_H
 #define KITCHENSINKSTUFF_MENU_H
 
-class Menu : "BaseObject.h"
+class Menu : BaseObject
 {
 private:
     MenuProcess *menuExecution;

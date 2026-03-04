@@ -6,8 +6,6 @@
 #ifndef KITCHENSINKSTUFF_MAINPROCESS_H
 #define KITCHENSINKSTUFF_MAINPROCESS_H
 
-Start
-
 class MainProcess : public BaseProcess {
     int tickRate = 1;
 public:

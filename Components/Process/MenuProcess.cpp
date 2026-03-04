@@ -4,7 +4,5 @@
 
 #include "MenuProcess.h"
 
-override MenuProcess::Process() {
-
-}
+//TODO: add menu functionality
 

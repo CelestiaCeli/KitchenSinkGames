@@ -10,11 +10,8 @@ bool quit = false;
 
 int main()
 {
+    //TODO: add check startup to scan for an entry point
 
-    int errorCode = AttemptStartUp();
-
-    return errorCode;
-    StartUp();
     while (!quit)
     {
         bool crashed = ProcessLoop();

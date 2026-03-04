@@ -3,7 +3,3 @@
 //
 
 #include "Menu.h"
-
-override Menu::Update() {
-    MenuProcess->
-}
