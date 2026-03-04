@@ -29,14 +29,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f621ee4-5b88-4fa1-8a16-bea8891c64ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Components/Listener/BaseListener.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Listener/BaseListener.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Process/MainProcess.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MainProcess.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/MainObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/MainObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/Menu.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/Menu.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Objects/Menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/Menu.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +77,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "CMake Application.KitchenSinkGames.executor": "Run",
+    "CMake Debug.KitchenSinkStuff.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -140,7 +137,7 @@
       <workItem from="1772618524184" duration="17000" />
       <workItem from="1772618551702" duration="459000" />
       <workItem from="1772628071105" duration="12000" />
-      <workItem from="1772628096648" duration="382000" />
+      <workItem from="1772628096648" duration="1431000" />
     </task>
     <servers />
   </component>
