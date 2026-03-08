@@ -19,7 +19,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="KitchenSinkStuff" targetName="KitchenSinkStuff" />
+      <config projectName="Menu" targetName="Architectural" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -29,10 +29,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f621ee4-5b88-4fa1-8a16-bea8891c64ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Components/Listener/BaseListener.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/Listener/BaseListener.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Process/HangmanProcess.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Process/HangmanProcess.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Render/HangmanRenderer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Render/HangmanRenderer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExecutionList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/HangmanObject.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/HangmanObject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/MenuObject.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/MenuObject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executionList" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Input/BaseInput.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Input/BaseInput.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Observer/BaseObserver.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Observer/BaseObserver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Process/MenuProcess.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MenuProcess.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Render/MenuRender.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Render/MenuRender.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Render/MenuRender.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Render/MenuRender.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/MainObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/MainObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/Menu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/Menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Menu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +96,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.Architectural.executor": "Run",
     "CMake Application.KitchenSinkGames.executor": "Run",
     "CMake Debug.KitchenSinkStuff.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -101,25 +122,25 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="CMake Application.KitchenSinkGames">
+  <component name="RunManager" selected="CMake Application.Architectural">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KitchenSinkGames" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KitchenSinkStuff" TARGET_NAME="KitchenSinkStuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KitchenSinkStuff" RUN_TARGET_NAME="KitchenSinkStuff">
+    <configuration name="Architectural" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Menu" TARGET_NAME="Architectural" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Menu" RUN_TARGET_NAME="Architectural">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KitchenSinkStuff" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="KitchenSinkStuff" TARGET_NAME="KitchenSinkStuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="KitchenSinkStuff" RUN_TARGET_NAME="KitchenSinkStuff">
+    <configuration name="KitchenSinkGames" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Menu" TARGET_NAME="KitchenSinkStuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Menu" RUN_TARGET_NAME="KitchenSinkStuff">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="CMake Application.KitchenSinkGames" />
-      <item itemvalue="CMake Application.KitchenSinkStuff" />
+      <item itemvalue="CMake Application.Architectural" />
     </list>
   </component>
   <component name="TaskManager">
@@ -137,7 +158,9 @@
       <workItem from="1772618524184" duration="17000" />
       <workItem from="1772618551702" duration="459000" />
       <workItem from="1772628071105" duration="12000" />
-      <workItem from="1772628096648" duration="1431000" />
+      <workItem from="1772628096648" duration="1518000" />
+      <workItem from="1772635997152" duration="38000" />
+      <workItem from="1772976911488" duration="5503000" />
     </task>
     <servers />
   </component>
@@ -159,6 +182,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Components/Process/MenuProcess.h</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

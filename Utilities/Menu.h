@@ -13,6 +13,7 @@ class Menu
     };
 
 public:
+    //The primary menu function to execute
     int MenuFunc();
 private:
     int currIndex = 0;

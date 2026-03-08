@@ -1,3 +1,5 @@
+#include <iostream>
+
 void StartUp();
 
 bool ProcessLoop();
@@ -5,12 +7,17 @@ bool Execute();
 bool Render();
 
 int Debug();
+int DebugPoint();
 
 bool quit = false;
 
 int main()
 {
     //TODO: add check startup to scan for an entry point
+
+    if (Debug) {
+        return DebugPoint();
+    }
 
     while (!quit)
     {
@@ -52,4 +59,11 @@ bool Render()
 int Debug()
 {
     return 100;
+}
+
+
+
+int DebugPoint() {
+    std::cout << "The";
+    return std::addressof(Debug)();
 }

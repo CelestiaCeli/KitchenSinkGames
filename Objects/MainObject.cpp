@@ -7,7 +7,22 @@
 void MainObject::Update() {
     while (!quit || !crashed)
     {
-        mainProcess->Update();
+
+        mainProcess()->Update();
         mainRender->Update();
     }
 }
+
+void MainObject::SetProcess(MainProcess *_mainProcess)
+{
+    delete mainProcess;
+    mainProcess = _mainProcess;
+}
+
+void MainObject::SetRender(MainRender *_mainRender)
+{
+    delete  mainRender;
+    mainRender = _mainRender;
+}
+
+

@@ -11,5 +11,15 @@
 
 class BaseInput : public BaseComponent
 {
-    char buffer[50];
+    char *buffer;
+
+    BaseInput()
+    {
+        buffer = new char[64];
+    }
+
+    void SetBuffer(const int length)
+    {
+        buffer = new char[length];
+    }
 };

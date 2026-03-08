@@ -8,12 +8,10 @@
 #define KITCHENSINKSTUFF_BASEOBSERVER_H
 
 
-class BaseObserver : public BaseComponent {
+class BaseObserver {
 
 public:
-    void AddObserver();
-    void RemoveObserver();
-    void Update() override;
+    void OnCall();
 private:
 };
 

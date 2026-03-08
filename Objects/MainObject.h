@@ -19,6 +19,9 @@ public:
         mainProcess = new MainProcess();
         mainRender = new MainRender();
     }
+
+    void SetRender(MainRender *_mainRender);
+    void SetProcess(MainProcess *_mainProcess);
 private:
     bool quit;
     bool crashed;

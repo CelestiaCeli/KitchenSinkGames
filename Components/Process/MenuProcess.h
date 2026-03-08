@@ -10,10 +10,12 @@
 
 class MenuProcess : BaseProcess {
 public:
-
+    int IncrementIndex();
+    void Process(std::string collection[], const int listLength);
 private:
     int tickRate = 10;
-    int currIndex;
+    int currIndex = 0;
+    std::string selection;
 protected:
 };
 

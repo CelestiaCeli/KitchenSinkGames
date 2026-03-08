@@ -5,11 +5,16 @@
 
 #ifndef KITCHENSINKSTUFF_MENURENDER_H
 #define KITCHENSINKSTUFF_MENURENDER_H
+#include <iostream>
 
 
 class MenuRender : BaseRender
 {
-    void Process();
+public:
+    void Process(std::string collection[], const int listLength);
+private:
+
+protected:
 };
 
 
