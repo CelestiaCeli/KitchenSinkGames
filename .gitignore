@@ -1,2 +1,6 @@
 .idea/
 cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+Architectural
+cmake_install.cmake

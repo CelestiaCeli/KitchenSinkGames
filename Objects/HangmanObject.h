@@ -11,7 +11,7 @@
 #include "BaseObject.h"
 
 class HangmanObject : BaseObject {
-    void Update() override;
+    void Update() override
     {
         std::printf("Bleeeh >:P");
     }
