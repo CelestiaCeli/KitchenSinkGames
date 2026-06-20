@@ -7,10 +7,4 @@ Architectural
 cmake_install.cmake
 
 #CMakeTest ignores
-Study/CMakeTest/CMakeFiles
-Study/CMakeTest/CMakeCache.txt
-Study/CMakeTest/Makefile
-Study/CMakeTest/cmake_install.cmake
-Study/CMakeTest/Project2
-Study/CMakeTest/_deps
-Study/CMakeTest/glad_cmake
+Study/CMakeTest/Build

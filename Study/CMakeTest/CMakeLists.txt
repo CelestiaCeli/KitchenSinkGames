@@ -20,7 +20,7 @@ FetchContent_MakeAvailable(glfw)
 
 add_subdirectory(${glad_SOURCE_DIR}/cmake glad_cmake)
 
-glad_add_library(glad_gl_core_33 REPRODUCIBLE API gl:core=3.3 LOCATION ${PROJECT_SOURCE_DIR}_deps/glad-src)
+glad_add_library(glad_gl_core_33 REPRODUCIBLE API gl:core=3.3)
 
 include_directories(PUBLIC _deps)
 

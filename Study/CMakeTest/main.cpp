@@ -1,5 +1,5 @@
 #include <iostream>
-#include "_deps/glad-src/_deps/glad-build/include/glad/gl.h"
+#include "_deps/glfw-src/deps/glad/gl.h"
 #include "_deps/glfw-src/include/GLFW/glfw3.h"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
