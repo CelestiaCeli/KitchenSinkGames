@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <GL/gl.h>
 void StartUp();
 
 bool ProcessLoop();
@@ -16,7 +16,7 @@ int main()
     //TODO: add check startup to scan for an entry point
 
     if (Debug) {
-        return DebugPoint();
+        //return DebugPoint();
     }
 
     while (!quit)
@@ -34,10 +34,10 @@ bool ProcessLoop()
 {
     bool success = true;
     if (Execute()) {
-        success = false;
+        success = true;
     }
     if (Render()) {
-        success = false;
+        success = true;
     }
 
     return success;
