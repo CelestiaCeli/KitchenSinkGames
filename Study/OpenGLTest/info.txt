@@ -1,0 +1,4 @@
+This was mainly me trying to get a hold of cmake. I wanted it to be a hassle free all in one compiler instead of requiring anything. I hate cmake by the way. I would rather eat a bowl of stubbed toes.
+
+Anyway!
+This serves as a template for all my projects opengl now

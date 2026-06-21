@@ -1,0 +1,25 @@
+//
+// Created by Celeste on 2026-03-04.
+//
+
+#ifndef KITCHENSINKSTUFF_BASEINPUT_H
+#define KITCHENSINKSTUFF_BASEINPUT_H
+
+#endif //KITCHENSINKSTUFF_BASEINPUT_H
+
+#include "../BaseComponent.h"
+
+class BaseInput : public BaseComponent
+{
+    char *buffer;
+
+    BaseInput()
+    {
+        buffer = new char[64];
+    }
+
+    void SetBuffer(const int length)
+    {
+        buffer = new char[length];
+    }
+};

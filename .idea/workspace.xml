@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Menu" targetName="Architectural" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f621ee4-5b88-4fa1-8a16-bea8891c64ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Components/Process/HangmanProcess.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Process/HangmanProcess.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Render/HangmanRenderer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/Render/HangmanRenderer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExecutionList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/HangmanObject.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/HangmanObject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/MenuObject.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/MenuObject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/executionList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Input/BaseInput.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Input/BaseInput.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Observer/BaseObserver.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Observer/BaseObserver.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MenuProcess.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Process/MenuProcess.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Process/MenuProcess.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Render/MenuRender.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Render/MenuRender.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Components/Render/MenuRender.h" beforeDir="false" afterPath="$PROJECT_DIR$/Components/Render/MenuRender.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/MainObject.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/MainObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/Objects/MainObject.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/Menu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Objects/Menu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/Menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/Menu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="j6Nv0Gna" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="3.1" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="37newFKLTjZppdqT8UvfGdTwRHO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Architectural.executor": "Run",
+    "CMake Application.KitchenSinkGames.executor": "Run",
+    "CMake Debug.KitchenSinkStuff.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Project-Overhaul",
+    "last_opened_file_path": "/home/Celeste/Documents/Creative Works/Programming/KitchenSinkGames",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "CMakeSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.Architectural">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Architectural" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Menu" TARGET_NAME="Architectural" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Menu" RUN_TARGET_NAME="Architectural">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KitchenSinkGames" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Menu" TARGET_NAME="KitchenSinkStuff" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Menu" RUN_TARGET_NAME="KitchenSinkStuff">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.KitchenSinkGames" />
+      <item itemvalue="CMake Application.Architectural" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f621ee4-5b88-4fa1-8a16-bea8891c64ed" name="Changes" comment="" />
+      <created>1767543500661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767543500661</updated>
+      <workItem from="1767543500666" duration="1284000" />
+      <workItem from="1768489549747" duration="23000" />
+      <workItem from="1768678091795" duration="1595000" />
+      <workItem from="1768925652577" duration="719000" />
+      <workItem from="1772618317526" duration="174000" />
+      <workItem from="1772618524184" duration="17000" />
+      <workItem from="1772618551702" duration="459000" />
+      <workItem from="1772628071105" duration="12000" />
+      <workItem from="1772628096648" duration="1518000" />
+      <workItem from="1772635997152" duration="38000" />
+      <workItem from="1772976911488" duration="5503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Components/Process/MenuProcess.h</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
