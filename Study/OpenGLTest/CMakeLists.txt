@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 4.1)
-Project(CMakeTest)
+Project(OpenGLTest)
 
 include(FetchContent)
 
@@ -24,8 +24,8 @@ glad_add_library(glad_gl_core_33 REPRODUCIBLE API gl:core=3.3)
 
 include_directories(PUBLIC _deps)
 
-add_executable(CMakeTest main.cpp)
+add_executable(OpenGLTest main.cpp)
 
 
-target_link_libraries(CMakeTest PUBLIC glad_gl_core_33)
-target_link_libraries(CMakeTest PUBLIC glfw)
+target_link_libraries(OpenGLTest PUBLIC glad_gl_core_33)
+target_link_libraries(OpenGLTest PUBLIC glfw)
