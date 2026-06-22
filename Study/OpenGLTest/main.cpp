@@ -33,6 +33,18 @@ int main()
 	return 0;
 }
 
+bool ProcessInput(GLFWwindow *window)
+{
+	if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS)
+		glfwSetWindowShouldClose(window, true);
+	else if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
+	{
+		glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+		glClear(GL_COLOR_BUFFER_BIT);
+	}
+	return true;
+}
+
 bool Update()
 {
 	glfwPollEvents();
@@ -49,7 +61,11 @@ bool Render(GLFWwindow* window)
 
 bool GameplayLoop(GLFWwindow* window)
 {
+	//input
+	if (!ProcessInput(window)) { return false; }
+	//logic
 	if (!Update()) { return false; }
+	//render
 	if (!Render(window)) { return false; }
 
 	return true;
