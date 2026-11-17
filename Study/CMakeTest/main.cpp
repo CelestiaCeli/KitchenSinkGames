@@ -1,3 +1,5 @@
+//Tutorial followed from https://learnopengl.com/
+
 #include <iostream>
 #include "Build/_deps/glfw-src/deps/glad/gl.h"
 #include "Build/_deps/glfw-src/include/GLFW/glfw3.h"

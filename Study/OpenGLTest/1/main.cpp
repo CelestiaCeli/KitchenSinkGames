@@ -68,6 +68,8 @@ bool GameplayLoop(GLFWwindow* window)
 	//render
 	if (!Render(window)) { return false; }
 
+	std::cout << "Test";
+
 	return true;
 }
 

@@ -3,3 +3,16 @@
 //
 
 #include "BaseListener.h"
+
+
+BaseListener::AddObserver()
+{
+
+
+}
+
+BaseListener::RemoveObserver()
+{
+
+
+}

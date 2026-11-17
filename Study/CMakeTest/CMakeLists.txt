@@ -1,3 +1,4 @@
+#Several tutorials was used to make this because I had lots of difficulty understanding cmake initially. I can't tell what I used originally, sorry.
 cmake_minimum_required(VERSION 4.1)
 Project(CMakeTest)
 

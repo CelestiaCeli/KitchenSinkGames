@@ -1,0 +1,80 @@
+
+#include "../lib/ext/glfw-src/deps/glad/gl.h"
+#include "../lib/ext/glfw-src/include/GLFW/glfw3.h"
+
+#include "../lib/object.h"
+#include "../lib/window.h"
+
+#include <vector>
+
+GLFWwindow* Init();
+bool Update();
+bool Render();
+bool GameplayLoop(GLFWwindow* window);
+
+Window* mainWindow;
+std::vector<Object> objects;
+
+int main()
+{
+	GLFWwindow* mainWindow = Init();
+	if (mainWindow == NULL) { return 0; }
+	
+	try
+	{
+		while(!glfwWindowShouldClose(mainWindow))
+		{
+			if (!GameplayLoop(mainWindow)) { break; }
+		}
+	}
+	catch
+	{
+		return 1;
+	}
+	return 0;
+}
+
+GLFWwindow* Init()
+{
+	//List of all classes in the game
+
+
+	//Window init. MUST BE FIRST!!!
+	
+
+
+	return true;
+}
+
+bool Update(std::vector<Object> list)
+{
+	for(int i = 0; i < list.size(); i++)
+	{
+		list[i].IUpdate();
+	}
+
+	return true;
+}
+
+bool Render(std::vector<Object> list)
+{
+	for(int i = 0; i < list.size(); i++)
+	{
+		list[i].IRender();
+	}
+	
+	return true;
+}
+
+bool GameplayLoop(GLFWwindow* window)
+{
+	//Logic
+	if (Update()) { return false; }
+	//Render Objects
+	if (Render()) { return false; }
+
+	//Render Window !! MUST BE LAST.
+	if () { return false; }
+
+	return true;
+}
