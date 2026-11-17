@@ -1,0 +1,167 @@
+#include "../lib/Render.h"
+
+GLFWwindow* Renderer::window;
+unsigned int Renderer::VBO;
+unsigned int Renderer::VAO;
+
+bool Renderer::Render(GLFWwindow* window)
+{
+	GLfloat vertices = InputAssembler();
+
+	unsigned int vertexOutput = VertexShader();
+	unsigned int tesselatorOutput = Tesselator();
+	unsigned int geometryOutput = GeometryShader();
+	unsigned int fragmentOutput = FragmentShader();
+	
+	/* Render Construction */
+	unsigned int renderOutput = RenderConstructor(vertexOutput, tesselatorOutput, geometryOutput, fragmentOutput, vertices);
+	return true;
+}
+
+unsigned int Renderer::RenderConstructor(
+		unsigned int vertexOutput, 
+		unsigned int tesselatorOutput, 
+		unsigned int geometryOutput, 
+		unsigned int fragmentOutput,
+		GLfloat vertices)
+{
+	unsigned int shaderProgram;
+	shaderProgram = glCreateProgram();
+	glAttachShader(shaderProgram, vertexOutput);
+	glAttachShader(shaderProgram, fragmentOutput);
+	glLinkProgram(shaderProgram);
+
+	int success;
+	char infoLog[512];
+
+	glGetProgramiv(shaderProgram, GL_LINK_STATUS, &success);
+	if (!success) {
+		glGetProgramInfoLog(shaderProgram, 512, NULL, infoLog);
+		std::cout << "ERROR::SHADER::LINKING_FAILED\n" << infoLog << std::endl;
+	}
+
+	glDeleteShader(vertexOutput);
+	glDeleteShader(fragmentOutput);
+
+	unsigned EBO;
+	const GLfloat triangle[] =
+	{
+		0.5f, 0.5f, 0.0f,
+		0.5f, -0.5f, 0.0f,
+		-0.5f, -0.5f, 0.0f,
+		-0.5f, 0.5f, 0.0f
+	};
+
+	const unsigned int indices[] = {
+		0, 1, 3,
+		1, 2, 3
+	};
+
+	glGenVertexArrays(1, &VAO);
+	glGenBuffers(1, &VBO);
+	glGenBuffers(1, &VBO);
+	glBindVertexArray(VAO);
+
+	glBindBuffer(GL_ARRAY_BUFFER, VBO);
+	glBufferData(GL_ARRAY_BUFFER, sizeof(triangle), triangle, GL_STATIC_DRAW);
+
+	glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
+	glBufferData(GL_ELEMENT_ARRAY_BUFFER, sizeof(indices), indices, GL_STATIC_DRAW);
+
+	glVertexAttribPointer(0, 3, GL_FLOAT, GL_FALSE, 3 * sizeof(float), (void*)0);
+	glEnableVertexAttribArray(0);
+	glBindBuffer(GL_ARRAY_BUFFER, 0);
+	glBindVertexArray(0);
+
+	return shaderProgram;
+}
+
+unsigned int Renderer::GeometryShader()
+{
+	return 0;
+}
+
+unsigned int Renderer::Tesselator()
+{
+	return 0;
+}
+
+GLfloat Renderer::InputAssembler()
+{
+	GLfloat triangle[] =
+	{
+		-0.5f, -0.5f, 0.0f,
+		0.5f, -0.5f, 0.0f,
+		0.0f, 0.5f, 0.0f
+	};
+	glGenBuffers(1, &VBO);
+	glBindBuffer(GL_ARRAY_BUFFER, VBO);
+	glBufferData(GL_ARRAY_BUFFER, sizeof(triangle), triangle, GL_STATIC_DRAW);
+
+	glBindVertexArray(VAO);
+	glDrawArrays(GL_TRIANGLES, 0, 3);
+
+	return *triangle;
+}
+
+unsigned int Renderer::VertexShader()
+{
+	const char *vertexShaderSource = "#version 330 core\n"
+		"layout (location = 0) in vec3 aPos;\n"
+		"void main()\n"
+		"{\n"
+		"	gl_Position = vec4(aPos.x, aPos.y, aPos.z, 1.0);\n"
+		"}\0";
+	unsigned int vertexShader = glCreateShader(GL_VERTEX_SHADER);
+
+	std::cout << vertexShader << std::endl;
+	glShaderSource(vertexShader, 1, &vertexShaderSource, NULL);
+
+
+	int success;
+	char infoLog[512];
+	glCompileShader(vertexShader);
+	glGetShaderiv(vertexShader, GL_COMPILE_STATUS, &success);
+
+	if (!success)
+	{
+		glGetShaderInfoLog(vertexShader, 512, NULL, infoLog);
+		std::cout << "ERROR::SHADER::VERTEX::COMPILATION_FAILED\n" << infoLog << std::endl;
+		return 0;
+	}
+	else
+	{
+	std::cout << vertexShader << std::endl;
+		return vertexShader;
+	}
+}
+
+unsigned int Renderer::FragmentShader()
+{
+	const char *fragmentShaderSource = "#version 330 core\n"
+		"out vec4 FragColor;\n"
+		"void main()\n"
+		"{\n"
+		"	FragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"
+		"}\0";
+	unsigned int fragmentShader;
+	fragmentShader = glCreateShader(GL_FRAGMENT_SHADER);
+	glShaderSource(fragmentShader, 1, &fragmentShaderSource, NULL);
+
+	int success;
+	char infoLog[512];
+	glCompileShader(fragmentShader);
+
+	glGetShaderiv(fragmentShader, GL_COMPILE_STATUS, &success);
+	if (!success)
+	{
+		glGetShaderInfoLog(fragmentShader, 512, NULL, infoLog);
+		std::cout << "ERROR::SHADER::FRAGMENT::COMPILATION_FAILED\n" << infoLog << std::endl;
+		return 0;
+	}
+	else
+	{
+		return fragmentShader;
+	}
+
+}

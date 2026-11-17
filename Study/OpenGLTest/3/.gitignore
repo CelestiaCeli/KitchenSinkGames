@@ -1,0 +1,9 @@
+Makefile
+cmake_install.cmake
+CMakeFiles
+CMakeCache.txt
+glad_cmake
+gladsources
+lib/ext
+build
+libglad_gl_core_33.a

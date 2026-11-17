@@ -1,0 +1,11 @@
+#main project ignores
+.idea/
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+Architectural
+cmake_install.cmake
+
+#CMakeTest ignores
+Study/CMakeTest/Build
+Study/OpenGLTest/Build

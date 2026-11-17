@@ -1,0 +1,13 @@
+
+
+1. NO Singletons allowed at all.
+Singletons is not a bad design pattern. That being said, this project is made with modularity in mind.
+While singletons may have their use, they create another dependency and can get out of hand if not treated carefully.
+2. Programming conventions to follow.
+The following are links to specified coding conventions that are important to follow! It is important to note that while these are strongly used; they have not been entirely used within the project.
+That being said, feel free to criticize, and by extension help fix out the project more!
+https://gameprogrammingpatterns.com/
+3.
+
+The code files you CANNOT remove.
+A completely modular project is near impossible,
