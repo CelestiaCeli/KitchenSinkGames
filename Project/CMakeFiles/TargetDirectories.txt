@@ -1,3 +1,0 @@
-/home/celeste/Documents/Programming/KitchenSinkGames/CMakeFiles/Architectural.dir
-/home/celeste/Documents/Programming/KitchenSinkGames/CMakeFiles/edit_cache.dir
-/home/celeste/Documents/Programming/KitchenSinkGames/CMakeFiles/rebuild_cache.dir
