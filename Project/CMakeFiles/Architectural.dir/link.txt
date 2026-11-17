@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Architectural.dir/link.d CMakeFiles/Architectural.dir/main.cpp.o CMakeFiles/Architectural.dir/Components/Render/HangmanRenderer.cpp.o CMakeFiles/Architectural.dir/Components/Process/HangmanProcess.cpp.o CMakeFiles/Architectural.dir/Objects/HangmanObject.cpp.o -o Architectural
